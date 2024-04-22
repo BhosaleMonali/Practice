@@ -1,0 +1,98 @@
+{
+  "user": [
+    {
+      "id": "8b7b",
+      "name": "Monali",
+      "email": "monali@gmail.com",
+      "password": "monali123"
+    },
+    {
+      "id": "84c0",
+      "name": "Tejal",
+      "email": "tejal@abc.com",
+      "password": "tejal@1"
+    },
+    {
+      "id": "aeef",
+      "name": "Sonali",
+      "email": "sonali@anc.com",
+      "password": "sonali123"
+    },
+    {
+      "id": "2829",
+      "name": "Komal",
+      "email": "komal@abc.com",
+      "password": "komal1"
+    },
+    {
+      "id": "0db1",
+      "name": "Sayali",
+      "email": "sayali@yahoo.com",
+      "password": "sayali123"
+    },
+    {
+      "id": "2a67",
+      "name": "snehal",
+      "email": "snehal@abc.com",
+      "password": "snehal@1"
+    },
+    {
+      "id": "9bdd",
+      "name": "Tony",
+      "email": "tony@yahoo.com",
+      "password": "tony1"
+    },
+    {
+      "id": "ac4c",
+      "name": "Manish",
+      "email": "manish@test.com",
+      "password": "manish@1"
+    },
+    {
+      "id": "771a",
+      "name": "Shivam",
+      "email": "shivam@abc.com",
+      "password": "shivam@1"
+    },
+    {
+      "id": "e09e",
+      "name": "Karan",
+      "email": "karan@abc.com",
+      "password": "karan@1"
+    },
+    {
+      "id": "c7e4",
+      "name": "Sahil",
+      "email": "sahil@gmail.com",
+      "password": "sahil@1"
+    },
+    {
+      "id": "cf61",
+      "name": "Kajal",
+      "email": "kajal@gmail.com",
+      "password": "kajal@1"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "0ds3",
+      "rname": "Chinese",
+      "address": "Vashi"
+    },
+    {
+      "id": "5033",
+      "rname": "Japnese",
+      "address": "Thane"
+    },
+    {
+      "id": "092a",
+      "rname": "Italian",
+      "address": "Nerul"
+    },
+    {
+      "id": "0e1d",
+      "rname": "KKK",
+      "address": "Panvel"
+    }
+  ]
+}
